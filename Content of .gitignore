@@ -1,0 +1,59 @@
+# Unity Generated Files
+/[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Unity Crash Reports
+CrashDumps/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+*.sln
+*.csproj
+*.unityproj
+*.pidb
+*.booproj
+
+# Unity Package Manager
+Packages/manifest.json
+Packages/packages-lock.json
+
+# Ignore specific Unity folders (optional but recommended)
+Assets/AssetStoreTools*
+
+# Build outputs
+*.apk
+*.aab
+*.ipa
+
+# Logs and metrics
+*.log
+*.csv
+*.dat
+
+# User-specific files
+*.user
+*.userprefs
+
+# Do not ignore these important files
+!/.gitignore
+!/README.md
+!/SETUP.md
+!/.github/
+
+# Ignore AdManager credentials if any (optional)
+# Assets/Scripts/AdManager.cs  ← Only uncomment if you want to ignore the whole file
